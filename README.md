@@ -4,7 +4,7 @@
 ## NIM : 312410404
 ## Kelas : TI.24.A.3
 
-# KoffNet UI
+## KoffNet UI
 
 KoffNet UI adalah desain antarmuka aplikasi pemesanan kopi modern dengan tampilan elegan dan pengalaman pengguna yang intuitif.  
 Project ini dibuat sebagai prototype untuk aplikasi mobile (Android/iOS).
@@ -14,7 +14,7 @@ Project ini dibuat sebagai prototype untuk aplikasi mobile (Android/iOS).
 https://drive.google.com/file/d/1ROdfYog79X-EXibVL3naVBzex3Y4N0HY/view?usp=drive_link 
 
 
-## 📱 Preview
+## Preview
 
 **Link Figma UI dari KoffNet**     
 https://www.figma.com/design/ZD8MvCWqFXHZLiJc7vPTbd/KoffNet?node-id=0-1&t=hO5cFDVGVwqMSmmO-1 
@@ -48,6 +48,10 @@ https://www.figma.com/design/ZD8MvCWqFXHZLiJc7vPTbd/KoffNet?node-id=0-1&t=hO5cFD
 
 <img width="1536" height="1024" alt="storyboard org" src="https://github.com/user-attachments/assets/b46ed977-d66e-47fe-9113-368bda63faab" />
 
+---
+
+## Scrum ClikUp     
+<img width="1365" height="680" alt="scrum koffnet" src="https://github.com/user-attachments/assets/33384de0-d92c-4a34-a22c-23b80c28feea" />
 
 
 ---
@@ -56,5 +60,5 @@ https://www.figma.com/design/ZD8MvCWqFXHZLiJc7vPTbd/KoffNet?node-id=0-1&t=hO5cFD
 
 - **Figma** untuk desain UI
 - **Canva**
-
+- **ClickUp**
 ---
